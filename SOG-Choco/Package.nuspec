@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SpiderOakGroups</id>
+    <version>6.3.0</version>
+	<title>SpiderOak Groups</title>
+    <authors>SpiderOak</authors>
+    <owners>jfail-at-redhat</owners>
+	<licenseUrl>https://spideroak.com/policy/terms-of-use</licenseUrl>
+	<projectUrl>https://spideroak.com/small-business/groups-backup</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/796745894867570688/MdoEmsWm.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs SpiderOak Groups a cloud backup utility</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright></copyright>
+    <tags>SpiderOakGroups backup admin</tags>
+	<packageSourceUrl>https://spideroak.com/small-business/groups-backup</packageSourceUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>

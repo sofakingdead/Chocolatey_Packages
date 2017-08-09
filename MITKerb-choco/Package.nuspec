@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>mitkerberos</id>
+    <version>4.1</version>
+	<title>MIT Kerberos for Windows</title>
+    <authors>MIT</authors>
+    <owners>jf-at-redhat</owners>
+	<licenseUrl>https://web.mit.edu/kerberos/krb5-1.12/doc/mitK5license.html</licenseUrl>
+	<projectUrl>http://web.mit.edu/kerberos/</projectUrl>
+    <iconUrl>http://web.mit.edu/kerberos/images/dog-ring.jpg</iconUrl>
+	<bugTrackerUrl>http://mailman.mit.edu/mailman/listinfo/krb5-bugs</bugTrackerUrl>
+	<docsUrl>http://web.mit.edu/kerberos/kfw-4.1/kfw-4.1/kfw-4.1-help/index.html</docsUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs Kerberos for Windows an open source Kerberos network authentication protocol tool</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright></copyright>
+    <tags>MIT Kerberos Open Source admin</tags>
+	<packageSourceUrl>http://web.mit.edu/kerberos/dist/kfw/4.1/kfw-4.1-src.zip</packageSourceUrl>
+	<summary>Kerberos is a network authentication protocol. It is designed to provide strong authentication for client/server applications by using secret-key cryptography. A free implementation of this protocol is available from the Massachusetts Institute of Technology. Kerberos is available in many commercial products as well.</summary>
+    <dependencies></dependencies>
+  </metadata>
+</package>

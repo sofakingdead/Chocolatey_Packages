@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BlueJeansApp</id>
+    <version>1.28.10</version>
+	<title>BlueJeans Desktop App</title>
+    <authors>BlueJeans</authors>
+    <owners>jf-at-redhat</owners>
+	<licenseUrl>https://www.bluejeans.com/desktop-eula</licenseUrl>
+	<projectUrl>https://support.bluejeans.com/knowledge/app-large-deployment</projectUrl>
+    <iconUrl>https://www.northeastern.edu/its/wp-content/uploads/2016/11/bluejeans-logo.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs the BlueJeans App for video Conferencing</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright></copyright>
+    <tags>BlueJeans admin</tags>
+	<packageSourceUrl>https://support.bluejeans.com/knowledge/app-large-deployment</packageSourceUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
