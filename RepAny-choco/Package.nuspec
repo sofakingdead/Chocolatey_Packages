@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>repulicanywhere</id>
+    <version>1.2.12</version>
+	<title>Republic Wireless Anywhere</title>
+    <authors>Republic Wireless</authors>
+    <owners>jf-at-redhat</owners>
+	<licenseUrl>https://help.republicwireless.com/hc/en-us/articles/115008762448-Republic-Wireless-Anywhere-Terms-of-Service</licenseUrl>
+	<projectUrl>https://republicwireless.com/republic-anywhere/</projectUrl>
+    <iconUrl>https://republicwireless.com/static/svg/anywhere-logo.2f5bc6b7b1.svg</iconUrl>
+	<bugTrackerUrl>https://help.republicwireless.com/hc/en-us</bugTrackerUrl>
+	<docsUrl>https://help.republicwireless.com/hc/en-us/articles/115007483667-Republic-Anywhere-FAQs</docsUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs Republic Wireless Anywhere text message app</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>https://help.republicwireless.com/hc/en-us/articles/115006224767-Terms-of-Use-Website-</copyright>
+    <tags>Republic wireless Text messaging phone admin</tags>
+	<packageSourceUrl></packageSourceUrl>
+    <dependencies></dependencies>
+  </metadata>
+</package>
