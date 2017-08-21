@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id></id>
+    <version></version>
+	<title></title>
+    <authors></authors>
+    <owners>jf-at-redhat</owners>
+	<licenseUrl></licenseUrl>
+	<projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+	<bugTrackerUrl></bugTrackerUrl>
+	<docsUrl></docsUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright></copyright>
+    <tags> admin</tags>
+	<packageSourceUrl></packageSourceUrl>
+	<summary></summary>
+    <dependencies></dependencies>
+  </metadata>
+</package>
