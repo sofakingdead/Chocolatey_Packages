@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SpiderOakGroups</id>
-    <version>6.3.0</version>
+    <version>6.4.0</version>
 	<title>SpiderOak Groups</title>
     <authors>SpiderOak</authors>
     <owners>jfail-at-redhat</owners>
@@ -14,7 +14,7 @@
     <releaseNotes>Initial release</releaseNotes>
     <copyright></copyright>
     <tags>SpiderOakGroups backup admin</tags>
-	<packageSourceUrl>https://spideroak.com/small-business/groups-backup</packageSourceUrl>
+	<packageSourceUrl>https://github.com/sofakingdead/Chocolatey_Packages/tree/master/SOG-Choco</packageSourceUrl>
     <dependencies>
     </dependencies>
   </metadata>
