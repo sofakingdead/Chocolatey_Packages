@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>BlueJeansApp</id>
-    <version>1.30.18</version>
+    <version>1.31.16</version>
 	<title>BlueJeans Desktop App</title>
     <authors>BlueJeans</authors>
     <owners>jf-at-redhat</owners>

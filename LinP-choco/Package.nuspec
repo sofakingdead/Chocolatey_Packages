@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>LinPhone</id>
-    <version>4.0</version>
+    <version>4.1.1</version>
 	<title>LinPhone</title>
     <authors>LinPhone</authors>
     <owners>jf-at-redhat</owners>
@@ -16,7 +16,7 @@
     <releaseNotes>Initial release</releaseNotes>
     <copyright></copyright>
     <tags>LinPhone soft phone admin</tags>
-	<packageSourceUrl>https://github.com/BelledonneCommunications/linphone-desktop</packageSourceUrl>
+	<packageSourceUrl>https://github.com/sofakingdead/Chocolatey_Packages/tree/master/LinP-choco</packageSourceUrl>
     <dependencies></dependencies>
   </metadata>
 </package>
