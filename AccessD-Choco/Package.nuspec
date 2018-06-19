@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>accessdirector</id>
+    <version>2.5</version>
+	<title>Access Director</title>
+    <authors>nolightpeople</authors>
+    <owners>jf-at-redhat</owners>
+	<licenseUrl>http://nolightpeople.com/</licenseUrl>
+	<projectUrl>http://nolightpeople.com/about</projectUrl>
+    <iconUrl>http://nolightpeople.com/image.axd?picture=/assemblies/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs Access Director</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright></copyright>
+    <tags>Access Director admin no light people</tags>
+	<packageSourceUrl>https://github.com/sofakingdead/Chocolatey_Packages/tree/master/AccessD-choco</packageSourceUrl>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
