@@ -2,13 +2,13 @@
 <package >
   <metadata>
     <id>SpiderOakGroups</id>
-    <version>6.4.0</version>
+    <version>7.3.0</version>
 	<title>SpiderOak Groups</title>
     <authors>SpiderOak</authors>
     <owners>jfail-at-redhat</owners>
 	<licenseUrl>https://spideroak.com/policy/terms-of-use</licenseUrl>
 	<projectUrl>https://spideroak.com/small-business/groups-backup</projectUrl>
-    <iconUrl>https://pbs.twimg.com/profile_images/796745894867570688/MdoEmsWm.jpg</iconUrl>
+    <iconUrl>https://spideroak.com/wp-content/uploads/2018/07/SO-spideroak.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Installs SpiderOak Groups a cloud backup utility</description>
     <releaseNotes>Initial release</releaseNotes>
